@@ -4,8 +4,8 @@ Hey there 👋,
 This project is my take-home assignment Frontend Internships!
 
 The goal?  
-Build a clean, responsive **AI Safety Incident Dashboard** where users can:
-- View and manage AI safety incidents
+Build a clean, responsive **Safety Incident Dashboard** where users can:
+- View and manage safety incidents
 - Filter by severity (All, Low, Medium, High)
 - Sort incidents by reported date (Newest First / Oldest First)
 - See full incident details by toggling
@@ -16,7 +16,7 @@ Build a clean, responsive **AI Safety Incident Dashboard** where users can:
 
 ## ✨ Features
 
-- 🚀 Add new AI safety incidents quickly
+- 🚀 Add new safety incidents quickly
 - 🎯 Filter incidents by severity (Low / Medium / High)
 - 🕒 Sort incidents by date easily
 - 👀 Expand/Collapse to view full descriptions
