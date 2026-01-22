@@ -1,7 +1,7 @@
 # AI Safety Incident Dashboard
 
 Hey there 👋,  
-This project is my take-home assignment for the Sparklehood Frontend Internship!
+This project is my take-home assignment Frontend Internships!
 
 The goal?  
 Build a clean, responsive **AI Safety Incident Dashboard** where users can:
